@@ -20,7 +20,7 @@ The Project `demo` is enabled for the following Blueprints:
 Blueprint  | Version |Description  | Mandatory | Services
 -----------|---------|-------------|-----------|----------
 OTC Base | v1.0.0 | Basic OTC Setup (eg. terraform files, workflows, backends, ...).|  ✔  | `Base Repo Setup`
-Hello world example | v1.0.0 | Only a Hello World example which will only outputs a hello_world String.|  ✗  | `hello_world`
+Hello world example | v1.0.1 | Only a Hello World example which will only outputs a hello_world String.|  ✗  | `hello_world`
 ___
 
 Configured environments:
